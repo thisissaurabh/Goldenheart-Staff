@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "28271795580",
+    "project_id": "goldenheart-3372b",
+    "storage_bucket": "goldenheart-3372b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28271795580:android:318a9b77d23879deb418f9",
+        "android_client_info": {
+          "package_name": "com.example.goldenheart_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiRTo3YTRGxmaT3oyAkDz_JiEWKWBXSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28271795580:android:f10d2e251adf332cb418f9",
+        "android_client_info": {
+          "package_name": "com.goldenheart.staff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiRTo3YTRGxmaT3oyAkDz_JiEWKWBXSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28271795580:android:90b1e44848b96f6ab418f9",
+        "android_client_info": {
+          "package_name": "com.goldenheart.staff.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiRTo3YTRGxmaT3oyAkDz_JiEWKWBXSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28271795580:android:7372d9f0d1db65a8b418f9",
+        "android_client_info": {
+          "package_name": "goldenheart.com.user.goldenheart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiRTo3YTRGxmaT3oyAkDz_JiEWKWBXSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28271795580:android:324b7e3e6b40c005b418f9",
+        "android_client_info": {
+          "package_name": "goldenheart.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiRTo3YTRGxmaT3oyAkDz_JiEWKWBXSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28271795580:android:882cbaa84f3eeb97b418f9",
+        "android_client_info": {
+          "package_name": "invoidea.goldenheart_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiRTo3YTRGxmaT3oyAkDz_JiEWKWBXSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
